@@ -1,0 +1,8 @@
+{
+  "speech": "auto",
+  "voiceGate": "on",
+  "announceUi": "on",
+  "bufferHistory": 4,
+  "diagLog": false,
+  "excludeNames": []
+}
